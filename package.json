@@ -7,8 +7,12 @@
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
+    "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^17.0.2",
+    "react-headroom": "^3.1.1",
     "react-scripts": "4.0.3",
+    "react-slideshow-image": "^3.4.5",
+    "styled-components": "^5.2.3",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
