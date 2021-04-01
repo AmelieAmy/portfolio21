@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.95" height="92.95" viewBox="0 0 92.95 92.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #cee5dd;
+      }
+    </style>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="infos_icons" data-name="infos icons">
+      <g id="desktopIcon">
+        <rect class="cls-1" width="92.95" height="92.95"/>
+        <path class="cls-2" d="M89.28,11.55H3.68A2.43,2.43,0,0,0,1.25,14V74.45a2.43,2.43,0,0,0,2.43,2.43H38.94l-2.12,8.46H23a1.59,1.59,0,0,0-1.59,1.59v3.44A1.59,1.59,0,0,0,23,92H70a1.59,1.59,0,0,0,1.59-1.58V86.93A1.59,1.59,0,0,0,70,85.34H56.13L54,76.88H89.28a2.43,2.43,0,0,0,2.42-2.43V14A2.43,2.43,0,0,0,89.28,11.55Zm-3.59,56.9H7.27v-51H85.69Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
