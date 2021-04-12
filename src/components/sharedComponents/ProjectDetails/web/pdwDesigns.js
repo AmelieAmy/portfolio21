@@ -52,7 +52,7 @@ const pdwDesigns = ({pageName}) => {
         return(
             projectsDatas.map((project) => (
                 project.urlName === pageName &&
-                <a href={slideShowPictures[project.index][imgIndex]} alt={slideShowNames[project.index][imgIndex]} key={project.id} >
+                <a href={slideShowPictures[project.index][imgIndex]} target="_blank" rel="noreferrer" alt={slideShowNames[project.index][imgIndex]} key={project.id} >
                     <div className="each-slide">
                         <div style={{'backgroundImage': `url(${slideShowMiniatures[project.index][imgIndex]})`}}>
                             <span>{slideShowNames[project.index][imgIndex]}</span>
