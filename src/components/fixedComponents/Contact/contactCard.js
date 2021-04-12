@@ -21,8 +21,8 @@ const contactCard = () =>
                 <div>
                     <ContactInfos iconHref={Telephone} contentLink="tel:+33781028488" content="07 81 02 84 88" subContent="De préférence la journée" />
                     <ContactInfos iconHref={Email} contentLink="mailto:am_bock@outlook.com" content="am_bock@outlook.com" subContent="Garantie plus rapide que la poste" />
-                    <ContactInfos iconHref={linkedin} contentLink="https://www.linkedin.com/in/ameliebockelandt/" content="Compte LinkedIn" subContent="N'y allez surtout pas, ça fait peur !" />
-                    <ContactInfos iconHref={GitHub} contentLink="https://github.com/AmelieAmy/" content="Compte GitHub" subContent=" 🐱 || 🐙 ? " />
+                    <ContactInfos iconHref={linkedin} contentLink="https://www.linkedin.com/in/ameliebockelandt/" target="_blank" rel="noreferrer" content="Compte LinkedIn" subContent="N'y allez surtout pas, ça fait peur !" />
+                    <ContactInfos iconHref={GitHub} contentLink="https://github.com/AmelieAmy/" target="_blank" rel="noreferrer" content="Compte GitHub" subContent=" 🐱 || 🐙 ? " />
                 </div>
             </div>
         </ContactCard>

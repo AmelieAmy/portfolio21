@@ -5,17 +5,17 @@ import styled from "styled-components";
 // Component links
 
 
-const contactInfos = ({iconHref, subContent, contentLink, content}) =>
+const contactInfos = ({iconHref, subContent, contentLink, target, rel, content}) =>
 {
 
     return(
         <ContactInfos>
-            <div className="contactInfos">
-                <a href={contentLink}>
+            <div className="contactInfos" >
+                <a href={contentLink} target={target} rel={rel}>
                     <img src={iconHref} alt={"icone de " + iconHref} className={content === "am_bock@outlook.com" ? "img__Icon_contact_mail" : "img__Icon_contact" } />
                 </a>
                 <div>
-                    <a href={contentLink}>
+                    <a href={contentLink} target={target} rel={rel}>
                         <ScrollAnimation animateIn="slideInRight" offset={70}>
                             <p className="p__texts_mediumColor" >{content}</p>
                             <div className="div__line_underline" ></div>

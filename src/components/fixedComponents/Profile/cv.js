@@ -14,7 +14,7 @@ const cv = () =>
     return(
         <Cv>
             <ScrollAnimation animateIn="zoomInDown" offset={70} >
-                <a href={CV} >
+                <a href={CV} target="_blank" rel="noreferrer">
                     <p>Télécharger mon CV</p>
                     <img src={cvIcon} alt="icone d'un CV" />
                 </a>
