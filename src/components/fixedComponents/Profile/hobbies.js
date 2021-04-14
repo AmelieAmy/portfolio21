@@ -53,7 +53,7 @@ const Hobbies = styled.div`
     {
         .hobbies
         {
-            max-width: 600px;
+            max-width: 650px;
         }
 
         .hobbies li

@@ -166,13 +166,13 @@ const profilDatas =
             {
                 id: "meetings",
                 icon: Planete,
-                kind: "Rencontre internationale d’ordre culturel. Particulièrement culture asiatique (Corée du Sud)"
+                kind: "Rencontre internationale d’ordre culturel. (TOEIC : 940) Particulièrement culture asiatique (Corée du Sud)"
             },
     
             {
                 id: "games",
                 icon: Des,
-                kind: "Jeux de société, jeux de rôle et énigmes"
+                kind: "Escape game, jeux de rôle, jeux de société, jeux vidéo"
             }
         ]
     }

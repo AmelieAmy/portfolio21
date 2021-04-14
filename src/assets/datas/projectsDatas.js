@@ -209,8 +209,8 @@ const projetcsDatas =
             "L'entreprise veut augmenter son nombre de commande mais doit pouvoir contrôler les devis avant validation. ( trop peu d'employés pour gérer toutes les commandes ) "
         ],
         fullProjectSolution: [
-            "Création d'un site web à mi-chemin entre le e-commerce et le site vitrine. Le coté e-commerce permet une présentation détaillée des produits proposés par l'entreprise. Le côté vitrine lui met en avant ses valeurs, sa plus-value et les détaille les techniques propores à son secteur d'activité. ",
-            "La page Demande de devis permet à l'utilisateur de passer une commande directement online. Si l'entreprise l'accepte, elle renvoit le détail du prix, la durée de production, les frais de livraison ainsi qu'un moyen de paiement."
+            "Création d'un site web à mi-chemin entre le e-commerce et le site vitrine. Le coté e-commerce permet une présentation détaillée des produits proposés par l'entreprise. Le côté vitrine lui, met en avant ses valeurs, sa plus-value et détaille les techniques propore à son secteur d'activité. ",
+            "La page Demande de devis permet à l'utilisateur de passer une commande directement online. Si l'entreprise accepte la commande, elle renvoit le détail du prix, la durée de production, les frais de livraison ainsi qu'un moyen de paiement."
         ],
         sliderIntroPics: [
             desimIntroMobile,
@@ -263,14 +263,14 @@ const projetcsDatas =
         microDescription_year: 2021,
         microDescription_caseStudy : false,
         fullProjectName: "Design d'un One-Page",
-        fullProjectDescription: "AK2I Consulting est une jeune entreprise d'accompagnement web. Elle propose des équipes et/ou des conseils adaptés en fonction de chaques projets.",
+        fullProjectDescription: "AK2I Consulting est une jeune entreprise d'accompagnement web. Elle propose des équipes et/ou des conseils adaptés en fonction de chaque projet.",
         fullProjectIssue: [
             "L'entreprise voulait absolument un site web au format One-page",
-            "Présenter un maximum d'information dans un momimum d'espace."
+            "Présenter un maximum d'information dans un mimimum d'espace."
         ],
         fullProjectSolution: [
-            "Créeer des sections clairement délimitées auxquelles accéder avec une ancre depuis le menu",
-            "A l'intérieur d'une même section, créer des contenus qui puissent changer grâce à des onglets, des bouttons ou des sliders "
+            "Créer des sections clairement délimitées auxquelles accéder avec une ancre depuis le menu",
+            "A l'intérieur d'une même section, créer des contenus qui puissent changer grâce à des onglets, des boutons ou des sliders "
         ],
         sliderIntroPics: [
             ak2iIntroDesktop
@@ -303,15 +303,15 @@ const projetcsDatas =
         microDescription_year: 2019,
         microDescription_caseStudy : true,
         fullProjectName: "Refonte de l'application",
-        fullProjectDescription: "SNCF est l'entreprise ferroviaire la plus connue de France. Son application permet entres autres de réserver des villets directement en ligne. L'entrprise a souhaité changer l'apparence de son application pour la rendre plus dynamique.",
+        fullProjectDescription: "SNCF est l'entreprise ferroviaire la plus connue de France. Son application permet entres autres de réserver des billets directement en ligne. L'entreprise a souhaité changer l'apparence de son application pour la rendre plus dynamique.",
         fullProjectIssue: [
-            "Créeer des animations et des transitions belles et dynamiques mais aussi viables à développer par la suite",
+            "Créeer des animations et des transitions belles, dynamiques mais aussi viables à développer par la suite",
             "Adapter l'ensemble du contenu et des fonctionnalités à la refonte",
             "Garder la charte graphique"
         ],
         fullProjectSolution: [
-            "Adapter les 2 couleurs principales pour les titres, les icones et la plupart des éléments interractifs",
-            "Ajouter une animation en slider à l'écran d'Accueil avec des couleurs qui ressortent et rappel le thème"
+            "Adapter les 2 couleurs principales pour les titres, les icones et la plupart des éléments interactifs",
+            "Ajouter une animation en slider à l'écran d'Accueil avec des couleurs qui ressortent et rappellent le thème"
         ],
         sliderIntroPics: [
             sncfIntroMobile
@@ -347,14 +347,14 @@ const projetcsDatas =
         microDescription_year: 2020,
         microDescription_caseStudy : true,
         fullProjectName: "Refonte d'un Site E-Commerce",
-        fullProjectDescription: "Nous sommes en 2030. La gestion de la nourriture est toujours plus essentielle et les réfrigirateurs connectés se sont démocratisés. La France décide de s'imposer sur le marché en proposant un tout nouveau modèle 'French Touch', éco-responsable et accessible à tous.",
+        fullProjectDescription: "Nous sommes en 2030. La gestion de la nourriture est toujours plus essentielle et les réfrigérateurs connectés se sont démocratisés. La France décide de s'imposer sur le marché en proposant un tout nouveau modèle 'French Touch', éco-responsable et accessible à tous.",
         fullProjectIssue: [
             "Le style graphique doit être futuriste",
-            "L'application doit présenter le contenu du réfrigirateur et ce dernier doit pouvoir être trié par filtre"
+            "L'application doit présenter le contenu du réfrigérateur et ce dernier doit pouvoir être trié par filtre"
         ],
         fullProjectSolution: [
             "Inspiration de différents designs dont le retro-gaming.",
-            "Utiliser des sliders que l'on peu manipuler facilement pour trier un maximum d'information.",
+            "Utiliser des sliders que l'on peut manipuler facilement pour trier un maximum d'informations.",
             "Utiliser des sections avec boutons en forme d'icones pour trier le contenu du frigo."
         ],
         sliderIntroPics: [
